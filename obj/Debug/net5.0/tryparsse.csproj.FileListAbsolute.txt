@@ -1,0 +1,15 @@
+/Users/hibba/Documents/GitHub/tryparsse/bin/Debug/net5.0/tryparsse.deps.json
+/Users/hibba/Documents/GitHub/tryparsse/bin/Debug/net5.0/tryparsse.runtimeconfig.json
+/Users/hibba/Documents/GitHub/tryparsse/bin/Debug/net5.0/tryparsse.runtimeconfig.dev.json
+/Users/hibba/Documents/GitHub/tryparsse/bin/Debug/net5.0/tryparsse.dll
+/Users/hibba/Documents/GitHub/tryparsse/bin/Debug/net5.0/ref/tryparsse.dll
+/Users/hibba/Documents/GitHub/tryparsse/bin/Debug/net5.0/tryparsse.pdb
+/Users/hibba/Documents/GitHub/tryparsse/obj/Debug/net5.0/tryparsse.csproj.AssemblyReference.cache
+/Users/hibba/Documents/GitHub/tryparsse/obj/Debug/net5.0/tryparsse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hibba/Documents/GitHub/tryparsse/obj/Debug/net5.0/tryparsse.AssemblyInfoInputs.cache
+/Users/hibba/Documents/GitHub/tryparsse/obj/Debug/net5.0/tryparsse.AssemblyInfo.cs
+/Users/hibba/Documents/GitHub/tryparsse/obj/Debug/net5.0/tryparsse.csproj.CoreCompileInputs.cache
+/Users/hibba/Documents/GitHub/tryparsse/obj/Debug/net5.0/tryparsse.dll
+/Users/hibba/Documents/GitHub/tryparsse/obj/Debug/net5.0/ref/tryparsse.dll
+/Users/hibba/Documents/GitHub/tryparsse/obj/Debug/net5.0/tryparsse.pdb
+/Users/hibba/Documents/GitHub/tryparsse/obj/Debug/net5.0/tryparsse.genruntimeconfig.cache
