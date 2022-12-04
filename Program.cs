@@ -6,22 +6,27 @@ namespace tryparsse
     {
         static void Main(string[] args)
         {
-            string[] values = { null, "23145", "24155.6", "21,425",
-                          "-244", "+46423", "(167);", "231FA" };
-            foreach (string value in values)
-            {
-                int nummer;
-
-                bool funkar = int.TryParse(value, out nummer);
-                if (funkar)
-                {
-                    Console.WriteLine($"Converted '{value}' to {nummer}.");
+            int result;
+            if (!int.TryParse(s: Console.ReadLine(), result: out result))
+                Console.Write(value: "Skriv in en siffra"); 
+        }
+        public static bool TryParse(string s, out int result) {
+            bool isparsed;
+            int res = 0;
+            result = res;
+            try {
+                result = Convert.ToInt32(value: s);
+                isparsed = true;
+                if (isparsed == true) {
+                    return true;
                 }
-                else
-                {
-                    Console.WriteLine($"Attempted conversion of '{value ?? "<null>"}' failed.");
+            } catch (System.Exception) {
+                isparsed = false;
+                if (isparsed == false) {
+                    return false;
                 }
             }
+            return false;
         }
     }
 }
